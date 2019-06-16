@@ -1,6 +1,6 @@
-**Status:** Archive (code is provided as-is, no updates expected)
 
-# Multi-Agent Particle Environment
+# Multi-Agent Particle Environment for from OpenAI muliti-agent-particle-env @github
+## Relevant scenarios are: `simple_port.py` and `2_agents_demo.py`
 
 A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.
 Used in the paper [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf).
