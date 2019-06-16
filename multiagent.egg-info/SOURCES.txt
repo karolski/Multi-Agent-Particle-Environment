@@ -16,6 +16,7 @@ multiagent.egg-info/not-zip-safe
 multiagent.egg-info/requires.txt
 multiagent.egg-info/top_level.txt
 multiagent/scenarios/2_agents_demo.py
+multiagent/scenarios/2_agents_simple.py
 multiagent/scenarios/__init__.py
 multiagent/scenarios/simple.py
 multiagent/scenarios/simple_adversary.py
